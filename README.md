@@ -31,3 +31,9 @@ Splitwise	Foco apenas em divisão de contas (não tem orçamento conjunto).	Ofer
 Planilhas	Trabalhosas e sem colaboração em tempo real.	Automatização + acessibilidade mobile.
 Bancos conjuntos	Só mostram transações, sem análise ou metas.	Insights personalizados para casais.
 ________________________________________
+
+# Grupo:
+-Douglas Henrique Honda 
+-Hanna de Oliveira Melo
+-Gabriel Machado da Silva 
+-Sergio de Siqueira Santos
