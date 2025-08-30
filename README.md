@@ -16,3 +16,5 @@ o U$ não é apenas mais um app de finanças. É uma ferramenta de comunicação
 -Gabriel Machado da Silva  22.123.005-5
 
 -Sergio de Siqueira Santos 22.124.082-3
+
+-Natasha Almeida Trindade  22.123.098-0
